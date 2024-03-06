@@ -1,8 +1,6 @@
 <template>
-	<div>
-		<h2>Test Component</h2>
-		Test Page
-	</div>
+	<h2>Test Component</h2>
+	Test Page
 </template>
 
 <script setup() { }></script>
